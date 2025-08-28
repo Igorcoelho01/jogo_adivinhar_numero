@@ -1,1 +1,4 @@
+Projeto pessoal feito para praticar JS.
+O obejtivo é do jogo é adivinha o numero que o sistema criou aleatoriamente.
+
 Deploy: [https://vercel.com/new/igorcoelho01s-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=jogo-1a0udopx2-igorcoelho01s-projects.vercel.app&projectName=jogo&s=https%3A%2F%2Fgithub.com%2FIgorcoelho01%2Fjogo_adivinhar_numero&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&flow-id=i4OhkPumYil3xLIsY_CPW](https://jogo-three-ashen.vercel.app/)
